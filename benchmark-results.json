@@ -1,0 +1,98 @@
+{
+  "china": {
+    "raw_bytes": 819840,
+    "formats": {
+      "none": {
+        "bytes": 539801,
+        "encode_ms": 34.31
+      },
+      "sub": {
+        "bytes": 497628,
+        "encode_ms": 53.08
+      },
+      "up": {
+        "bytes": 500220,
+        "encode_ms": 51.92
+      },
+      "adaptive": {
+        "bytes": 491161,
+        "encode_ms": 64.97
+      },
+      "pillow_png": {
+        "bytes": 490868
+      }
+    }
+  },
+  "flower": {
+    "raw_bytes": 819840,
+    "formats": {
+      "none": {
+        "bytes": 516762,
+        "encode_ms": 36.66
+      },
+      "sub": {
+        "bytes": 383553,
+        "encode_ms": 106.62
+      },
+      "up": {
+        "bytes": 366191,
+        "encode_ms": 100.33
+      },
+      "adaptive": {
+        "bytes": 367421,
+        "encode_ms": 116.92
+      },
+      "pillow_png": {
+        "bytes": 365079
+      }
+    }
+  },
+  "gradient": {
+    "raw_bytes": 65536,
+    "formats": {
+      "none": {
+        "bytes": 640,
+        "encode_ms": 0.72
+      },
+      "sub": {
+        "bytes": 522,
+        "encode_ms": 1.78
+      },
+      "up": {
+        "bytes": 866,
+        "encode_ms": 1.8
+      },
+      "adaptive": {
+        "bytes": 524,
+        "encode_ms": 5.7
+      },
+      "pillow_png": {
+        "bytes": 464
+      }
+    }
+  },
+  "uniform_noise": {
+    "raw_bytes": 65536,
+    "formats": {
+      "none": {
+        "bytes": 65840,
+        "encode_ms": 2.05
+      },
+      "sub": {
+        "bytes": 65840,
+        "encode_ms": 2.65
+      },
+      "up": {
+        "bytes": 65840,
+        "encode_ms": 2.67
+      },
+      "adaptive": {
+        "bytes": 65840,
+        "encode_ms": 6.67
+      },
+      "pillow_png": {
+        "bytes": 65917
+      }
+    }
+  }
+}
